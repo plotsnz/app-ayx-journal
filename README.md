@@ -1,2 +1,14 @@
 # app-ayx-journal
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
